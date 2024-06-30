@@ -12,7 +12,8 @@ By achieving this, the aim is to enhance clinical decision-making, optimize trea
 ### 2.	Challenges in Diagnosing Glaucoma:
 - Glaucoma diagnosis involves a multifaceted process, including various assessments (e.g., fundus imaging, family history, medical records, eye pressure, and visual acuity).
 - The data required for accurate diagnosis is often dispersed across different sources, potentially leading to oversight of critical information.
-- Identifying glaucoma suspects—patients with elevated intraocular pressure (IOP) but no clinical signs—poses a significant challenge.
+- Identifying glaucoma suspects—patients with elevated intraocular pressure (IOP) but no clinical signs—poses a significant challenge. To treat first? Or monitor first? Will it be undertreatment? Or overtreatment?
+
 
 ## Key Project Steps:
 ### 1.	Data Collection:
